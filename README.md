@@ -1,19 +1,28 @@
-### Hi there 👋
-![programmer](https://user-images.githubusercontent.com/101355193/168812547-c2addad2-07a1-4ff6-a7fb-e875c6b1c769.gif)
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, This is Ashutosh Kapoor</h1>
+<h5 align="center"> I'm a 1st year student pursuing BTech computer science engineering from UPES, Dehradun. Will be going for Open Source specialization. visionary Web and App developer. Enthusiast for Machine learning and football ⚽.</h5>
+<p align="center">
+<img width="500px" height="100%" src="https://user-images.githubusercontent.com/101355193/168819043-2445a010-052d-4d47-b3a7-db9f9da9dbd9.gif">
+</p>
 
+🏃🏻🏃🏻How to contact me --- **ashutoshkapoor8965@gmail.com**
+# Tech Stack
+<div align="center">
+<img align="center" width="40px" height="40px" src=https://user-images.githubusercontent.com/101355193/168812963-6fbbad6d-ebbf-4903-9370-896c8e1fe29a.png>&nbsp;&nbsp;&nbsp;<img align="center" width="40px" height="40px" src=https://user-images.githubusercontent.com/101355193/168813987-683a3b53-2a42-43b8-a707-6fd6589630b1.png>&nbsp;&nbsp;&nbsp;<img align="center" width="60px" height="40px" src=https://user-images.githubusercontent.com/101355193/168814440-6f733436-7799-478c-b1c8-0e096fff50fe.png>&nbsp;&nbsp;&nbsp;<img align="center" width="40px" height="40px" src=https://user-images.githubusercontent.com/101355193/168814633-a1b9ae24-79fe-4079-85c3-91339b630065.png>&nbsp;&nbsp;&nbsp;<img align="center" width="35px" height="50px" src=https://user-images.githubusercontent.com/101355193/168814821-b64bf12c-3a80-4a48-aed2-a6725797ce34.png>&nbsp;&nbsp;&nbsp;<img align="center" width="35px" height="50px" src=https://user-images.githubusercontent.com/101355193/168814988-53ad2fea-a09e-49ff-b6cd-1d20dce83d5f.png></div>
 
+  
 
-![instagram 256x256](https://user-images.githubusercontent.com/101355193/168808408-e60629b6-664e-4e47-bf3c-72cc709f98de.png)[1]
-![github 256x251](https://user-images.githubusercontent.com/101355193/168808683-05513c09-316d-4e10-b01d-8cadd1e98f78.png)[2]
-![linkedin 256x256](https://user-images.githubusercontent.com/101355193/168808965-37ad4388-5b43-4ba1-b8ab-b70e5b02cdeb.png)[3]
-![google-developers-icon 256x188](https://user-images.githubusercontent.com/101355193/168809349-b32ff9ac-1d6b-4805-bf19-c2cc0a1786c6.png)[4]
-![twitter-original 256x208](https://user-images.githubusercontent.com/101355193/168809542-4f189555-25c6-40af-9b09-359558743cf3.png)[5]
+## Follow Me
+<div align="center">
+<a href="https://www.instagram.com/kapoor0905/" target="black"><img align="center" width="40px" height="40px" src=https://user-images.githubusercontent.com/101355193/168808408-e60629b6-664e-4e47-bf3c-72cc709f98de.png></a> &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Kapoor-0905" target="black"><img align="center" width="40px" height="40px" src=https://user-images.githubusercontent.com/101355193/168808683-05513c09-316d-4e10-b01d-8cadd1e98f78.png></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ashutosh-kapoor-abb313229/" target="blank"><img align="center" width="40px" height="40px" src=https://user-images.githubusercontent.com/101355193/168808965-37ad4388-5b43-4ba1-b8ab-b70e5b02cdeb.png></a> &nbsp;&nbsp;&nbsp;
+<a href="g.dev/kapoor09055" target="black"><img align="center" width="60px" height="40px" src=https://user-images.githubusercontent.com/101355193/168809349-b32ff9ac-1d6b-4805-bf19-c2cc0a1786c6.png></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/Ashutoshkap17" target="blank"><img align="center" width="40px" height="35px" src=https://user-images.githubusercontent.com/101355193/168809542-4f189555-25c6-40af-9b09-359558743cf3.png></a> &nbsp;&nbsp;&nbsp;
+</div>
 
-[1]:https://www.instagram.com/kapoor0905/
-[2]:https://github.com/Kapoor-0905
-[3]:https://www.linkedin.com/in/ashutosh-kapoor-abb313229/
-[4]:g.dev/kapoor0905
-[5]:https://twitter.com/Ashutoshkap17
 
 
 
