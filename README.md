@@ -1,5 +1,6 @@
 Hi there 👋
-![twitter-sign](https://user-images.githubusercontent.com/101355193/168806088-0da696af-5a2f-4ed9-b1b2-362abaa21ce4.png)[1]
+![tw](https://user-images.githubusercontent.com/101355193/168806507-e2798198-e1a8-43d1-afdf-37153263c01d.png)
+[1]
 
 ---
 [1]:https://twitter.com/Ashutoshkap17
