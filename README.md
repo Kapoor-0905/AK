@@ -19,7 +19,7 @@
 <a href="https://www.instagram.com/kapoor0905/" target="black"><img align="center" width="40px" height="40px" src=https://user-images.githubusercontent.com/101355193/168808408-e60629b6-664e-4e47-bf3c-72cc709f98de.png></a> &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Kapoor-0905" target="black"><img align="center" width="40px" height="40px" src=https://user-images.githubusercontent.com/101355193/168808683-05513c09-316d-4e10-b01d-8cadd1e98f78.png></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ashutosh-kapoor-abb313229/" target="blank"><img align="center" width="40px" height="40px" src=https://user-images.githubusercontent.com/101355193/168808965-37ad4388-5b43-4ba1-b8ab-b70e5b02cdeb.png></a> &nbsp;&nbsp;&nbsp;
-<a href="g.dev/kapoor0905" target="black"><img align="center" width="60px" height="40px" src=https://user-images.githubusercontent.com/101355193/168809349-b32ff9ac-1d6b-4805-bf19-c2cc0a1786c6.png></a>&nbsp;&nbsp;&nbsp;
+<a href="https://developers.google.com/profile/u/kapoor0905" target="black"><img align="center" width="60px" height="40px" src=https://user-images.githubusercontent.com/101355193/168809349-b32ff9ac-1d6b-4805-bf19-c2cc0a1786c6.png></a>&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/Ashutoshkap17" target="blank"><img align="center" width="40px" height="35px" src=https://user-images.githubusercontent.com/101355193/168809542-4f189555-25c6-40af-9b09-359558743cf3.png></a> &nbsp;&nbsp;&nbsp;
 </div>
 
