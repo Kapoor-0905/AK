@@ -4,7 +4,7 @@
          width="45" />, This is Ashutosh Kapoor</h1>
 <h5 align="center"> I'm a 1st year student pursuing BTech computer science engineering from UPES, Dehradun. Will be going for Open Source specialization. visionary Web and App developer. Enthusiast for Machine learning and football ⚽.</h5>
 <p align="center">
-<img width="500px" height="100%" src="https://user-images.githubusercontent.com/101355193/169783279-09c034af-ed59-47b6-9dd7-feb1c69d4263.gif">
+<img width="500px" height="100%" src="https://user-images.githubusercontent.com/101355193/169785298-e9edcdb0-0d57-4b5c-88a9-5fc06fc024cb.gif">
 </p>
 
 🏃🏻🏃🏻How to contact me --- **ashutoshkapoor8965@gmail.com**
