@@ -7,9 +7,8 @@
 <img width="500px" height="100%" src="https://user-images.githubusercontent.com/101355193/169785965-5936c201-9dd6-4e78-9d1e-90453ba52431.gif">
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Kapoor-0905&theme=radical&show_icons=true&count_private=true&size=small)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kapoor-0905&theme=radical)](https://git.io/streak-stats)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapoor-0905&layout=compact&theme=radical)
+<img width= 400px height=300px src= "https://github-readme-stats.vercel.app/api?username=Kapoor-0905&theme=radical&show_icons=true&count_private=true&size=small"><img width=400px height=300px src="https://github-readme-streak-stats.herokuapp.com/?user=Kapoor-0905&theme=radical">
+<img width=400px height=300px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapoor-0905&layout=compact&theme=radical">
 
 🏃🏻🏃🏻How to contact me --- **ashutoshkapoor8965@gmail.com**
 # Tech Stack
