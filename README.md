@@ -9,8 +9,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Kapoor-0905&theme=radical&show_icons=true&count_private=true&size=small)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kapoor-0905&theme=radical)](https://git.io/streak-stats)
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapoor-0905&layout=compact&theme=radical)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapoor-0905&layout=compact&theme=radical)
 
 🏃🏻🏃🏻How to contact me --- **ashutoshkapoor8965@gmail.com**
 # Tech Stack
