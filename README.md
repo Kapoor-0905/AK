@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=Kapoor-0905"><h3 align=center>Welcome to my profile 💯</h3>
+<h3 align=center>Welcome to my profile 💯</h3>
 <hr>
 <p align="center">
          
