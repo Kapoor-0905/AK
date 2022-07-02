@@ -10,7 +10,7 @@
 
 
 <div align=center>
-<img width= 400px height=250px src= "https://github-readme-stats.vercel.app/api?username=Kapoor-0905&theme=radical&show_icons=true&count_private=true&size=small">&nbsp;<img width=400px height=250px src="https://github-readme-streak-stats.herokuapp.com/?user=Kapoor-0905&theme=radical"><img width=250px height=250px src=https://user-images.githubusercontent.com/101355193/176988712-9770eba2-71f2-453a-95c0-e28830a96517.png></div>
+<img width= 400px height=250px src= "https://github-readme-stats.vercel.app/api?username=Kapoor-0905&theme=radical&show_icons=true&count_private=true&size=small">&nbsp;<img width=400px height=250px src="https://github-readme-streak-stats.herokuapp.com/?user=Kapoor-0905&theme=radical"></div>
 
 🏃🏻🏃🏻How to contact me --- **ashutoshkapoor8965@gmail.com**
 # Tech Stack
