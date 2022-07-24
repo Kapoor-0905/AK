@@ -10,7 +10,7 @@
 
 
 <div align=center>
-<img width= 400px height=250px src= "https://github-readme-stats.vercel.app/api?username=Kapoor-0905&theme=radical&show_icons=true&count_private=true&size=small">&nbsp;<img width=400px height=250px src="https://github-readme-streak-stats.herokuapp.com/?user=Kapoor-0905&theme=radical"></div>
+<img width= 400px height=250px src= "https://github-readme-stats.vercel.app/api?username=Kapoor-0905&theme=radical&show_icons=true&count_private=true&size=small">&nbsp;<img width=400px height=200px src=https://github-readme-stats.vercel.app/api/top-langs/?username=Kapoor-0905&layout=compact&langs_count=10&theme=radical></div>
 
 🏃🏻🏃🏻How to contact me --- **ashutoshkapoor8965@gmail.com**
 # Tech Stack
