@@ -30,7 +30,7 @@
 </div>
 
 
-
+<img src="https://activity-graph.herokuapp.com/graph?username=Kapoor-0905&theme=redical">
 
 <!--
 **Kapoor-0905/Kapoor-0905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
