@@ -11,7 +11,7 @@
 <p align="center"> I'm a 2nd year student pursuing BTech CSE with specialization Open Source and Standards from UPES, Dehradun.<br>A visionary Web and App developer. Enthusiast for Machine learning, Data Science and football ⚽.</p>
 
 <div align=center>
-<img width= 400px height=250px src= "https://github-readme-stats.vercel.app/api?username=Kapoor-0905&theme=radical&show_icons=true&count_private=true&size=small">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kapoor-0905&theme=radical" width= 400px height=250px><img width= 400px height=250px src=https://github-readme-stats.vercel.app/api/top-langs/?username=Kapoor-0905&layout=compact&langs_count=10&theme=radical></div>
+<img width= 400px height=250px src= "https://github-readme-stats.vercel.app/api?username=Kapoor-0905&theme=radical&show_icons=true&count_private=true&size=small">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kapoor-0905&theme=radical" width= 400px height=250px><img width= 400px height=250px src=https://github-readme-stats.vercel.app/api/top-langs/?username=Kapoor-0905&layout=compact&langs_count=8&theme=radical></div>
 
 🏃🏻🏃🏻How to contact me --- **ashutoshkapoor8965@gmail.com**
 # Tech Stack
