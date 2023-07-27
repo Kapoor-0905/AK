@@ -14,21 +14,19 @@
 <img width= 400px height=250px src= "https://github-readme-stats.vercel.app/api?username=Kapoor-0905&theme=radical&show_icons=true&count_private=true&size=small">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kapoor-0905&theme=radical" width= 400px height=250px><img width= 400px height=250px src=https://github-readme-stats.vercel.app/api/top-langs/?username=Kapoor-0905&layout=compact&langs_count=5&theme=radical></div>
 
 🏃🏻🏃🏻How to contact me --- **ashutoshkapoor8965@gmail.com**
-# Tech Stack
-> <img align="center" width="40px" height="40px" src=https://user-images.githubusercontent.com/101355193/168812963-6fbbad6d-ebbf-4903-9370-896c8e1fe29a.png>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" width="40px" height="45px" src=https://user-images.githubusercontent.com/101355193/176520743-c0fbb7d0-b09e-473a-9206-6ad7525db0c9.png>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" width="60px" height="40px" src=https://user-images.githubusercontent.com/101355193/176520292-aa314610-ec00-4072-97b3-8cd5290b2e14.png>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" width="35px" height="50px" src=https://user-images.githubusercontent.com/101355193/168814821-b64bf12c-3a80-4a48-aed2-a6725797ce34.png>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" width="35px" height="50px" src=https://user-images.githubusercontent.com/101355193/168814988-53ad2fea-a09e-49ff-b6cd-1d20dce83d5f.png>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" width="60px" height="30px" src=https://user-images.githubusercontent.com/101355193/175770207-9d414091-4635-4ffe-9cf2-251a4039baa0.png>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" width="40px" height="45px" src=https://user-images.githubusercontent.com/101355193/175771772-8804b4b2-d1fe-4b7e-970e-1414c32a0268.png>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" width="40px" height="40px" src=https://user-images.githubusercontent.com/101355193/180817994-b9afcdd8-4a8a-4afe-929d-18579aa11165.png>
+## Tech Stack
+> [![My Skills](https://skillicons.dev/icons?i=python,c,java,html,css,js,go,dart,flutter)](https://skillicons.dev)
 
-# FrameWorks
-> <img align="center" width="30px" height="40px" src=https://user-images.githubusercontent.com/101355193/188200482-e924c412-606f-4600-b2c5-088146d10490.png alt= "Flutter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" width="50px" height="50px" src=https://user-images.githubusercontent.com/101355193/192014085-9df11133-cea9-40d0-8f46-d9ca8fa4ebdc.png>
-</div>
-
-# Databases
-> <img src="https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png" width=12%>
+### Cloud and DevOps
+> [![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,supabase,docker,jenkins)](https://skillicons.dev)
+### Databases
+> [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+### Tools
+> [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,netlify,codemagic)](https://skillicons.dev)
+### Libraries
+> [![My Skills](https://skillicons.dev/icons?i=tensorflow,tkinter)](https://skillicons.dev)
 ## Follow Me
-
-> <a href="https://www.instagram.com/kapoor0905/" target="black"><img align="center" width="40px" height="40px" src=https://user-images.githubusercontent.com/101355193/168808408-e60629b6-664e-4e47-bf3c-72cc709f98de.png></a> &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Kapoor-0905" target="black"><img align="center" width="40px" height="40px" src=https://user-images.githubusercontent.com/101355193/168808683-05513c09-316d-4e10-b01d-8cadd1e98f78.png></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ashutosh-kapoor-abb313229/" target="blank"><img align="center" width="40px" height="40px" src=https://user-images.githubusercontent.com/101355193/168808965-37ad4388-5b43-4ba1-b8ab-b70e5b02cdeb.png></a> &nbsp;&nbsp;&nbsp;
-<a href="https://developers.google.com/profile/u/kapoor0905" target="black"><img align="center" width="60px" height="40px" src=https://user-images.githubusercontent.com/101355193/168809349-b32ff9ac-1d6b-4805-bf19-c2cc0a1786c6.png></a>&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/kapoor0905) [![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/kapoor0905)) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/kapoor_0905)
 
 </div>
 
