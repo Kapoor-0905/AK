@@ -15,14 +15,16 @@
 
 🏃🏻🏃🏻How to contact me --- **ashutoshkapoor8965@gmail.com**
 ## Tech Stack
-> [![My Skills](https://skillicons.dev/icons?i=python,c,java,html,css,js,go,dart,flutter)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=flutter,python,c,java,html,css,js,go,dart,nodejs)](https://skillicons.dev)
 
 ### Cloud and DevOps
 > [![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,supabase,docker,jenkins)](https://skillicons.dev)
 ### Databases
-> [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 ### Tools
 > [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,netlify,codemagic)](https://skillicons.dev)
+### Designing
+> [![My Skills](https://skillicons.dev/icons?i=figma,blender)](https://skillicons.dev)
 ### Libraries
 > [![My Skills](https://skillicons.dev/icons?i=tensorflow,tkinter)](https://skillicons.dev)
 ## Follow Me
@@ -30,6 +32,7 @@
 
 </div>
 
-[![@kapoor0905's Holopin board](https://holopin.io/api/user/board?user=kapoor0905)](https://holopin.io/@kapoor0905)
+<!--[![@kapoor0905's Holopin board](https://holopin.io/api/user/board?user=kapoor0905)](https://holopin.io/@kapoor0905)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Kapoor-0905&theme=redical">
+-->
