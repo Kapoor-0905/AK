@@ -8,7 +8,7 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Kapoor-0905&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshkapoor"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src=https://www.codewars.com/users/Kapoor-0905/badges/micro>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/kapoor_0905"><img src=https://img.shields.io/twitter/url/https/twitter.com/kapoor_0905.svg?style=social&label=Follow%20%40kapoor_0905></a>
 </div>
-<p align="center"> I'm a pre-final year student pursuing BTech CSE with specialization Open Source and Standards from UPES, Dehradun.<br>I'm a Flutter and Web developer and love to play football ⚽.</p>
+<p align="center"> I'm a final year student pursuing BTech CSE with specialization Open Source and Standards from UPES, Dehradun.<br>I'm a Flutter and love to play football ⚽.</p>
 
 <div align=center>
 <img width= 400px height=250px src= "https://github-readme-stats.vercel.app/api?username=Kapoor-0905&theme=radical&show_icons=true&count_private=true&size=small">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kapoor-0905&theme=radical" width= 400px height=250px><img width= 400px height=250px src=https://github-readme-stats.vercel.app/api/top-langs/?username=Kapoor-0905&layout=compact&langs_count=5&theme=radical></div>
